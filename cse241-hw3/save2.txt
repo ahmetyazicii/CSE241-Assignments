@@ -1,0 +1,10 @@
+Board Size:6
+Game Mode:2
+Turn:0
+Marked Cells:18
+xoxo..
+xxo.oo
+o.xxxx
+..ooxo
+......
+......

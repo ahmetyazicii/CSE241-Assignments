@@ -1,0 +1,9 @@
+Board Size:6
+Game Mode:2
+Turn:1
+.x..xo
+xoooox
+oxxox.
+x.ox..
+..x...
+....xo

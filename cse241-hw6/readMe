@@ -1,0 +1,4 @@
+The testCollection.java is contains the main. This is a test class for all the methods and classes.
+
+I made menu for all methods. User will pick operation(method) from menu then see the results.
+For testing All methods (addAll,removeAll,containsAll,retainAll) i created const objects. 

@@ -1,0 +1,11 @@
+Board Size:8
+Game Mode:1
+Turn:0
+.......o
+......xo
+.oo...xo
+oxxxxx.o
+x...xxoo
+.....o.x
+....o...
+........

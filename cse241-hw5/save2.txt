@@ -1,0 +1,12 @@
+Board Size:8
+Game Mode:2
+Turn:0
+Number Of Moves:10
+..xo...x
+.......o
+........
+........
+...xo...
+....xo..
+.......o
+.......x
